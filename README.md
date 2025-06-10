@@ -211,7 +211,7 @@ Alternately you can use [Winget](https://learn.microsoft.com/en-us/windows/packa
 official CLI package manager to install the `th-ch.YouTubeMusic` package.
 
 *Note: Microsoft Defender SmartScreen might block the installation since it is from an "unknown publisher". This is also
-true for the manual installation when trying to run the executable(.exe) after a manual download here on github (same
+true (same
 file).*
 
 ```bash
